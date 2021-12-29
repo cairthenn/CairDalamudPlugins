@@ -21,7 +21,7 @@
         "IsTestingExclusive":  "True",
         "LastUpdate":  "1640757504",
         "DownloadLinkInstall":  "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Redirect\u0026isUpdate=False\u0026isTesting=True\u0026branch=main",
-        "DownloadLinkTesting":  "https://us-central1-xl-functions.cloudfunctions.net/download-plugin/?plugin=Redirect\u0026isUpdate=False\u0026isTesting=True\u0026branch=main",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/cairthenn/CustomPluginRepo/main/testing/Redirect/latest.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/cairthenn/CustomPluginRepo/main/plugins/Redirect/latest.zip"
     }
 ]
