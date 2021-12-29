@@ -160,7 +160,7 @@ Foreach-Object {
 
 $outputStr = $output | ConvertTo-Json
 
-Out-File -FilePath .\pluginmaster.json -InputObject $outputStr
+Out-File -FilePath .\pluginmaster.json -InputObject $outputStr -Encoding utf8
 
 $template = Get-Content -Path mdtemplate.txt
 $template = $template + $table
