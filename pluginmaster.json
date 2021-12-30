@@ -20,8 +20,8 @@
         "IsTestingExclusive":  "False",
         "DownloadCount":  0,
         "LastUpdate":  "1640899383",
-        "DownloadLinkInstall":  "",
-        "DownloadLinkTesting":  "",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/cairthenn/CairDalamudPlugins/main/plugins/Redirect/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/cairthenn/CairDalamudPlugins/main/testing/Redirect/latest.zip",
         "DownloadLinkUpdate":  "https://raw.githubusercontent.com/cairthenn/CairDalamudPlugins/main/plugins/Redirect/latest.zip"
     }
 ]
