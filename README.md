@@ -12,5 +12,4 @@ To use the plugins in this repository, add the following URL to your Custom Plug
 
 - Allows you to use actions seamlessly with mouseover or alternate target functionality
 - Optionally lets you queue actions from macros as though they were actions on your bar
-- Enables the queueing of ground actions, **sprint**, and **potions**!
 
